@@ -195,7 +195,7 @@ Project Link: [https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite](https
 [forks-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/network/members
 [stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
 [stars-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/BAspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
 [issues-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/issues
 [license-shield]: https://img.shields.io/github/license/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
 [license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/blob/main/License.txt
