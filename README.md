@@ -67,8 +67,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 API Template with .Net Core 6 and Visual Studio 2022.
 This API accesses SQLite database
 
