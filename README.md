@@ -189,16 +189,16 @@ Project Link: [https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ValmirFrancisco/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ValmirFrancisco/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ValmirFrancisco/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/ValmirFrancisco/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/ValmirFrancisco/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/blob/main/Licence.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[contributors-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[forks-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/network/members
+[stars-shield]: https://img.shields.io/github/stars/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[stars-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ValmirFrancisco/BAspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[issues-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/issues
+[license-shield]: https://img.shields.io/github/license/ValmirFrancisco/AspNetCore_EFCoreSQLite.svg?style=for-the-badge
+[license-url]: https://github.com/ValmirFrancisco/AspNetCore_EFCoreSQLite/blob/main/License.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/valmir-francisco-b7a9a455/
 [product-screenshot]: images/screenshot.png
