@@ -9,7 +9,7 @@ namespace Data.Context
         public ApiContext(DbContextOptions<ApiContext> options) : base(options)
         { 
         }
-        public DbSet<UsuarioEntity> Usuarios { get; set; }
+        public DbSet<UsuarioEntity> Usuario { get; set; }
         public DbSet<PostEntity> Posts { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -30,7 +30,7 @@ namespace Data.Context
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<UsuarioEntity>(new UsuarioMap().Configure);
 
-            //modelBuilder.Entity<PostEntity>(new PostMap().Configure);
+            modelBuilder.Entity<PostEntity>(new PostMap().Configure);
 
         }
     }

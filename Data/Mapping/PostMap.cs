@@ -8,11 +8,13 @@ namespace Data.Mapping
     {
         public void Configure(EntityTypeBuilder<PostEntity> builder)
         {
-            builder.ToTable("Post");
+            builder.ToTable("Posts");
 
             builder.HasKey(u => u.Id);
 
-            builder.HasOne(m => m.Usuario);
+            builder.HasOne(m => m.Usuario)
+                .WithMany(n => n.Posts);
+
         }
     }
 }

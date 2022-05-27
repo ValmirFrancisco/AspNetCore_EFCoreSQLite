@@ -79,7 +79,14 @@ namespace Data.Repository
         {
             try
             {
-                return await _dataset.ToListAsync();
+                if (_dataset.GetType().FullName.IndexOf("PostEntity", 0) >= 0)
+                {
+                    return await _dataset.Include("Usuario").ToListAsync();
+                }
+                else
+                {
+                    return await _dataset.ToListAsync();
+                }
             }
             catch (Exception ex)
             {
