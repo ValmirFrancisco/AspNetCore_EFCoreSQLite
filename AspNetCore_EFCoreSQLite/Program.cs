@@ -15,7 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connection = builder.Configuration["ConnectionStrings:DefaultConnection"];
-builder.Services.AddDbContext<ApiContext>(opt => opt.UseSqlite(connection), ServiceLifetime.Singleton);
+builder.Services.AddDbContext<ApiContext>(opt => opt.UseNpgsql(connection), ServiceLifetime.Singleton);
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 

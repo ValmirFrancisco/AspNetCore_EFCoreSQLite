@@ -17,8 +17,7 @@ namespace Data.Context
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                //optionsBuilder.UseSqlServer("Server=SND13411SPBW10P; Integrated Security=false; Initial Catalog=SHC_QA; Pooling=true; User ID=sa; Password=endless10;");
-                optionsBuilder.UseSqlite("Data Source=UsersPosts.db");
+                optionsBuilder.UseNpgsql("User ID=ojkjtmjxuditvh;Password=8c7d59a0f3350d1dbcb3570ee04c7b62d49f90f2e31429e1e36b86045cc738ac;Host=ec2-34-230-153-41.compute-1.amazonaws.com;Port=5432;Database=de0geqb770oj2n;Pooling=true;Connection Lifetime=0;");
             }
         }
 
